@@ -1,0 +1,6 @@
+@_4_Api_ConsultasMedicas_HostAddress = http://localhost:5074
+
+GET {{_4_Api_ConsultasMedicas_HostAddress}}/ApiConsultasMedicas/
+Accept: application/json
+
+###
