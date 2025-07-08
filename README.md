@@ -1,4 +1,4 @@
-# 🏥 Exercício Prático – Consultas Médicas
+# 🏥 API – Consultas Médicas
 
 ## 📌 Objetivo
 Desenvolver um sistema de agendamento de consultas médicas com regras de negócio que garantam integridade, segurança e controle de acesso.
