@@ -15,7 +15,6 @@ Desenvolver um sistema de agendamento de consultas médicas com regras de negóc
 5. **Médicos ativos:** Médicos inativos não podem receber novos agendamentos.
 6. **Pacientes adimplentes:** Pacientes inadimplentes não podem agendar.
 7. **Sem reagendamento:** Para alterar a consulta, é necessário cancelar e agendar uma nova.
-8. **Acesso restrito:** Somente usuários autenticados podem agendar ou cancelar consultas.
 
 ### ❌ Cancelamento
 9. **Antecedência mínima:** O paciente só pode cancelar uma consulta com no mínimo 24h de antecedência.
