@@ -31,3 +31,12 @@ Desenvolver um sistema de agendamento de consultas médicas com regras de negóc
 
 ## 💡 Observação
 Essas regras garantem a integridade do sistema, evitam conflitos de agendamento, e asseguram que cada perfil (médico ou paciente) tenha acesso apenas ao que lhe compete.
+
+## ▶️ Como Executar
+
+```bash
+git clone https://github.com/Felipe-Passos03/4-Api-ConsultasMedicas
+cd 4-Api-ConsultasMedicas
+dotnet ef migrations add Initial
+dotnet ef database update
+dotnet run
